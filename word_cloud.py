@@ -2,7 +2,7 @@
     Word cloud maker for twitter
     Input twitter screen name and get a word cloud from their latest tweets
     Latest tweets include 3200 tweets including retweets from their timeline
-    This is meant to use for tweets written in English
+    This is meant to be used for tweets that are written in English
 '''
 
 from api_keys import API_KEY, API_SECRET
